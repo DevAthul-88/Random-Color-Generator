@@ -1,0 +1,12 @@
+.card{
+    box-shadow: none;
+    text-transform: uppercase;
+}
+#clip{
+   
+    border: none;
+}
+
+#sec{
+   transition: 0.5s;
+}
